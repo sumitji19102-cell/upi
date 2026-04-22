@@ -189,6 +189,12 @@ export default function Page() {
           </div>
           <MdKeyboardArrowRight className="text-xl text-gray-400" />
         </div>
+<div className="-mx-3 flex justify-center">
+  <img
+    src="https://i.ibb.co/ccNxb04Z/photo-2026-04-22-11-14-14.jpg"
+    className="w-[180px]"
+  />
+</div>
 
       </div>
 
