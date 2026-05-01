@@ -9,7 +9,7 @@ export default function Page() {
 
   const [dateTime, setDateTime] = useState("");
 
-  const [name, setName] = useState("Ankaraju Sridhar");
+  const [name, setName] = useState("Ankaraju");
   const [upi, setUpi] = useState("ankarajusridhar12@axl");
   const [utr, setUtr] = useState("633185827829");
   const [txnId, setTxnId] = useState("T2604081031566625975184");
