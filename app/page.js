@@ -64,7 +64,7 @@ export default function Page() {
       </div>
 
       {/* CARD */}
-      <div className="mt-3 bg-[#121212] rounded-[14px] p-3 px-4 mx-2 ">
+      <div className="mt-3 bg-[#212626] rounded-[14px] p-3 px-4 mx-2 ">
 
         <div className="text-[15px] font-bold">Paid to</div>
 
