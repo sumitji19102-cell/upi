@@ -41,7 +41,7 @@ export default function Page() {
   }, []);
 
   return (
-    <div className="bg-black min-h-screen font-sans text-white">
+    <div className="bg-[#0d0d0d] min-h-screen font-sans text-white">
 
       <meta name="theme-color" content="#2ad11e" />
 
