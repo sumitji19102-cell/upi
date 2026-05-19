@@ -152,10 +152,11 @@ export default function Page() {
                 UTR: {utr}
               </div>
 
-              <img
-                src="https://i.ibb.co/ym78vn9x/Chat-GPT-Image-Apr-30-2026-06-07-08-AM-removebg-preview.png"
-                className="w-[40px] mt-[-5px]"
-              />
+              
+        <img
+          src="https://i.ibb.co/Kp5QFKVR/1000045820-removebg-preview.png"
+          className="w-[110px] mt-[-15px] "
+        />
             </div>
 
           </div>
